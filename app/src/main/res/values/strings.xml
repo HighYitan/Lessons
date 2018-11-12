@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="question_moscow">Moscow is the actual capital of Russia</string>
+    <string name="question_slav">Slavs are in east Europe</string>
+    <string name="question_fantasy">Final Fantasy IX is a Shooter game</string>
+    <string name="question_counter">CS:GO is a RPG game</string>
+    <string name="question_lada">Lada is a car used commonly in Russia</string>
+    <string name="question_gopnik">Gopniks tend to wear Adidas tracksuit</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Next</string>
+    <string name="previous_button">Previous</string>
+    <string name="correct">Correct</string>
+    <string name="incorrect">Incorrect</string>
+</resources>
